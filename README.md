@@ -3,7 +3,7 @@
 A dynamic, automated billboard to publicly track my daily coding journey. This single‑page application fetches live commit history from the GitHub API and visualizes progress, streaks, and achievements on a clean, modern interface.
 
 <p align="center">
-  <a href="https://YOUR-NETLIFY-URL.netlify.app" target="_blank"><b>✨ View the Live Demo ✨</b></a>
+  <a href="reddy-balaji-daily-challenge-tracker.netlify.app" target="_blank"><b>✨ View the Live Demo ✨</b></a>
   <br/>
   <sub>(Replace the link above with your actual Netlify URL)</sub>
 </p>
